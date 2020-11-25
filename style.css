@@ -1,0 +1,149 @@
+.nav {
+  text-align: center;
+}
+.b {
+  color: orangered;
+  font-size: 1.5rem;
+  padding-right: 3rem;
+  /* background: chartreuse; */
+}
+.services {
+  height: 600px;
+  background-image: url("/rt.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+@media only screen and (max-width: 600px) {
+  h1.ch1 {
+    font-size: 20px;
+  }
+  h1.h1 {
+    font-size: 20px;
+  }
+  h1.h2 {
+    font-size: 30px;
+  }
+  h1.h3 {
+    font-size: 22px;
+  }
+}
+.ch1 {
+  margin-top: 20%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+  padding: 10px;
+  color: #fa4a0c;
+}
+.h1 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+  padding: 10px;
+}
+.h2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  font-size: 32px;
+  padding: 10px;
+}
+.h3 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+  padding: 10px;
+}
+.b1 {
+  border-radius: 50px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 30px;
+  text-align: center;
+  padding: 10px;
+  color: #f7f7f7;
+  background: #fa4a0c;
+}
+.b2 {
+  border-radius: 50px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 30px;
+  text-align: center;
+  padding: 10px;
+  color: #000000;
+  background-color: Transparent;
+  display: flex;
+  justify-content: start;
+}
+.i1 {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.s {
+  height: 500px;
+  /* background: chocolate; */
+}
+.hr {
+  width: 70%;
+  background: #0d0e0d;
+  border: 3px solid #e4e4e4;
+}
+.im1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* background: blue; */
+}
+.services1 {
+  height: 600px;
+  background-image: url("/rt1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+.m {
+  margin-top: 10%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+  padding: 10px;
+}
+.s1 {
+  height: 50px;
+  /* background: chocolate; */
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.social {
+  margin: auto;
+  margin-top: 5%;
+}
+.copyright {
+  margin: 30px;
+  text-align: center;
+}
